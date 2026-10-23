@@ -174,10 +174,10 @@ data center — reverse proxies, backups, and automation included.
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [Tafel-Farbgruppen-Tool](https://github.com/Rakoonir/Tafel-Farbgruppen-Tool)
+### 🎨 [RP-Char-Editor](https://github.com/Rakoonir/rp-charview)
 > `STATUS: PUBLIC`
 
-A practical tool born out of volunteer work at Oldenburger Tafel e.V.
+Ein RP-Char Viewer/Editor für RP Charaktere
 
 </td>
 </tr>
